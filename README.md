@@ -1,8 +1,7 @@
 xml-2-typed-object
 ==================
 
-an as3 utility to parse xml into a type object
-
+XML2VO.as is a as3 utility to parse xml into a type object
 
 The following is an example of how to use XML2VO.as util to quickly map data from xml into a typed object.
 
@@ -73,6 +72,4 @@ private function OnLoadComplete(e:Event):void
 }
 </pre>
 By using <a href="http://www.demonsterdebugger.com/">MonsterDebugger</a> to display the content of exampleVO you can see that the xml data has successfully been mapped into our as3 object.
-<a href="http://blog.peteshand.net/wp-content/uploads/2014/05/monsterDebugger.jpg"><img class="alignnone size-full wp-image-2512" src="http://blog.peteshand.net/wp-content/uploads/2014/05/monsterDebugger.jpg" alt="monsterDebugger" width="1080" height="500" /></a>
-
-Source code can be downloaded from <a href="https://github.com/peteshand/xml-2-typed-object">github</a>
+<a href="http://blog.peteshand.net/wp-content/uploads/2014/05/monsterDebugger.jpg"><img class="alignnone size-full wp-image-2512" src="http://blog.peteshand.net/wp-content/uploads/2014/05/monsterDebugger.jpg" alt="monsterDebugger" width="540" height="250" /></a>
