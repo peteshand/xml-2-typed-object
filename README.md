@@ -45,7 +45,7 @@ example source xml is as follows:
 		&lt;/item&gt;
 	&lt;/xmlExample&gt;
 &lt;/data&gt;
-&lt;/pre&gt;
+</pre>
 
 and ExampleVO is as follows:
 <pre lang="actionscript3">
