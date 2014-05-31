@@ -30,7 +30,7 @@ private function OnLoadComplete(e:Event):void
 Then on load complete simply call XML2VO.map and pass in the xml data along with the object you'd like the data mapped to.
 <br/>
 example source xml is as follows:
-<pre lang="xml">
+<pre lang="actionscript3">
 <?xml version="1.0" encoding="utf-8" ?>
 <data>
 	<arrayExample>1, 3.2, test</arrayExample>
