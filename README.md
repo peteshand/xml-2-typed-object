@@ -19,7 +19,7 @@ private function init():void
 	loader.load(request);
 }
 </pre>
-First you'll need to load and embed your xml object.
+First you'll need to load or embed your xml object.
 
 <pre lang="actionscript3">
 private function OnLoadComplete(e:Event):void 
