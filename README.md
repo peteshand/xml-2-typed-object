@@ -1,7 +1,7 @@
 xml-2-typed-object
 ==================
 
-XML2VO.as is an as3 utility to parse xml into a type object
+XML2VO.as is an as3 utility to parse xml into typed as3 objects
 
 The following is an example of how to use XML2VO.as util to quickly map data from xml into a typed object.
 
