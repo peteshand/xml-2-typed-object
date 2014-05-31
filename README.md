@@ -72,4 +72,4 @@ private function OnLoadComplete(e:Event):void
 }
 </pre>
 By using <a href="http://www.demonsterdebugger.com/">MonsterDebugger</a> to display the content of exampleVO you can see that the xml data has successfully been mapped into our as3 object.
-<a href="http://blog.peteshand.net/wp-content/uploads/2014/05/monsterDebugger.jpg"><img class="alignnone size-full wp-image-2512" src="http://blog.peteshand.net/wp-content/uploads/2014/05/monsterDebugger.jpg" alt="monsterDebugger" width="540" height="250" /></a>
+<a href="http://blog.peteshand.net/wp-content/uploads/2014/05/monsterDebugger.jpg"><img class="alignnone size-full wp-image-2512" src="http://blog.peteshand.net/wp-content/uploads/2014/05/monsterDebugger.jpg" alt="monsterDebugger" width="810" height="375" /></a>
