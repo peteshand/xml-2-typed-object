@@ -31,21 +31,21 @@ Then on load complete simply call XML2VO.map and pass in the xml data along with
 <br/>
 example source xml is as follows:
 <pre lang="actionscript3">
-<?xml version="1.0" encoding="utf-8" ?>
-<data>
-	<arrayExample>1, 3.2, test</arrayExample>
-	<intExample>60</intExample>
-	<numberExample>30.45</numberExample>
-	<stringExample>http://google.com</stringExample>
-	<uintExample>0xded6ce</uintExample>
-	<vectorExample>0xded6ce, 0xd1d6e0, 0xcddce2</vectorExample>
-	<xmlExample>
-		<item id="123">
-			<img>test.jpg</img>
-		</item>
-	</xmlExample>
-</data>
-</pre>
+&lt;?xml version="1.0" encoding="utf-8" ?&gt;
+&lt;data&gt;
+	&lt;arrayExample&gt;1, 3.2, test&lt;/arrayExample&gt;
+	&lt;intExample&gt;60&lt;/intExample&gt;
+	&lt;numberExample&gt;30.45&lt;/numberExample&gt;
+	&lt;stringExample&gt;http://google.com&lt;/stringExample&gt;
+	&lt;uintExample&gt;0xded6ce&lt;/uintExample&gt;
+	&lt;vectorExample&gt;0xded6ce, 0xd1d6e0, 0xcddce2&lt;/vectorExample&gt;
+	&lt;xmlExample&gt;
+		&lt;item id="123"&gt;
+			&lt;img&gt;test.jpg&lt;/img&gt;
+		&lt;/item&gt;
+	&lt;/xmlExample&gt;
+&lt;/data&gt;
+&lt;/pre&gt;
 
 and ExampleVO is as follows:
 <pre lang="actionscript3">
