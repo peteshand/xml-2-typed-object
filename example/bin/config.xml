@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<arrayExample>1, 3.2, test</arrayExample>
+	<intExample>60</intExample>
+	<numberExample>30.45</numberExample>
+	<stringExample>http://google.com</stringExample>
+	<uintExample>0xded6ce</uintExample>
+	<vectorExample>0xded6ce, 0xd1d6e0, 0xcddce2</vectorExample>
+	<xmlExample>
+		<item id="123">
+			<img>test.jpg</img>
+		</item>
+	</xmlExample>
+</data>
